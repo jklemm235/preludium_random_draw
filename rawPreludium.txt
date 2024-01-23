@@ -1,0 +1,35 @@
+Allied Bank: 4 MC Production, 3 MC Tokens, Earth Tag
+Aquifier Turbines: Place 1 Ocean Tile, 2 Energy Production, -3 MC Tokens, Power Tag
+Biofuels: 1 Plant Production, 1 Energy Production, 2 Plant Tokens, Microbe Tag
+Biolab: 1 Plant Production, Draw 3 Cards, Science Tag
+Biosphere Support: 2 Plant Production, -1 MC Production, Plant Tag
+Business Empire: 6 MC Production, -6 MC Tokens, Earth Tag
+Dome Farming: 1 Plant Production, 2 MC Production, Plant Tag, Building Tag
+Donation: 21 MC Tokens
+Early Settlement: Place 1 City Tile, 1 Plant Production, City Tag, Building Tag
+Ecology Experts: 1 Plant Production, Play a Card from your hand ignoring the global requirements, Plant Tag, Microbe Tag
+Eccentric Sponsor: Play a card from hand, paying 25 MC less for it
+Experimental Forest: Place 1 Greenery Tile, Reveal cards until you reveal two cards with plant tags on them. Take them into your hand and discard the rest. Plant Tag.
+Galilean Mining: 2 Titanium Production, -5 MC Tokens, Jovian Tag
+Great Aquifer: Place 2 Ocean Tiles
+Huge Asteroid: Increase Temperature 3 Steps, -5 MC Tokens
+IO Research Outpost: 1 Titanium Production, Draw 1 Card, Science Tag, Jovian Tag
+Loan: 30 MC Tokens, -2 MC Production
+Martian Industries: 1 Energy Production, 1 Steel Production, 6 MC Tokens, Building Tag
+Metal-Rich Asteroid: Increase Temperature 1 Step, 4 Titanium Tokens, 4 Steel Tokens
+Metals Company: 1 MC Production, 1 Steel Production, 1 Titanium Production
+Mining Operations: 2 Steel Production, 4 Steel Tokens, Building Tag
+Mohole: 3 Heat Production, 3 Heat Tokens, Building Tag
+Mohole Excavation: 1 Steel Production, 2 Heat Production, 2 Heat Tokens, Building Tag
+Nitrogen Shipment: Increase TR one step, 1 Plant Production, 5 MC Tokens
+Orbital Construction Yard: 1 Titanium Production, 4 Titanium Tokens, Space Tag
+Polar Industries: Place 1 Ocean Tile, 2 Heat Production, Building Tag
+Power Generation: 3 Energy Production, Power Tag
+Research Network: Draw 3 Cards, 1 MC Production, WILD Tag
+Self-Sufficient Settlement: Place 1 City Tile, 2 MC Production, City Tag, Building Tag
+Smelting Plant: Raise Oxygen 2 Steps, 5 Steel Tokens, Building Tag
+Society Support: 1 Plant Production, 1 Energy Production, 1 Heat Production, -1 MC Production
+Supplier: 2 Energy Production, 4 Steel Tokens, Power Tag
+Supply Drop: 3 Titanium Tokens, 8 Steel Tokens, 3 Plant Tokens
+UNMI Contractor: Increase TR 3 steps, Draw 1 Card, Earth Tag
+Acquired Space Agency: 6 Titanium Tokens, Reveal cards until you reveal two cards with Space Tags. Take them into your hand, discard the rest.
