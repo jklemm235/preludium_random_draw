@@ -1,5 +1,18 @@
 import random
 import argparse
+import os
+import platform
+import sys
+
+# Define a function to clear the terminal screen
+def clear_terminal():
+    """Clears the terminal screen."""
+    # Check the operating system
+    os_name = platform.system()
+    if os_name == "Windows":
+        os.system('cls')  # Clear terminal for Windows
+    else:
+        os.system('clear')  # Clear terminal for Unix/Linux/Mac
 
 # Create an ArgumentParser object
 parser = argparse.ArgumentParser(description='Command-line tool to get an integer')
@@ -31,9 +44,12 @@ if num_players*num_cards_drawn > len(cardnames):
     exit()
 idx = 0
 while idx < num_players*num_cards_drawn:
+    #input("Press Enter to get your cards")
     print("____________________________________________")
     print(f"Player {int(idx/num_cards_drawn + 1)} has the following cards:")
     for _ in range(num_cards_drawn):
         print(f"{cardnames[idx]}:\n\t{cards[cardnames[idx]]}")
         idx += 1
+    #input("Press Enter to clear the terminal")
+    #clear_terminal()
     
